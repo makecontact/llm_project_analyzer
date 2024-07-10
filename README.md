@@ -20,8 +20,6 @@ By using the LLM Project Analyzer, you can efficiently provide context to AI cod
 
 Whether you're seeking code reviews, asking for explanations of complex parts of your project, or collaborating with AI to develop new features, the LLM Project Analyzer helps you set the stage for more effective interactions with AI coding tools.
 
-# LLM Project Analyzer - Detailed Instructions
-
 ## Example Installation for MacOS or Linux
 
 1. Open your terminal.
